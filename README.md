@@ -30,11 +30,9 @@ https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/1
 
 ## GenAI (Image, Music)   
 ### Image:  
-![Figure_16](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/092e3a28-68fa-48cd-aa4d-15fd36a5b5cf)  
-  
-![Figure_15](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/85708e67-7a5f-4d30-bac7-fef2d36c375e)  
-  
-![Figure_17](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/70a1c548-0301-442d-933e-78a8fd42abfa)
+
+![Screenshot 2024-03-10 134125](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/af495c5a-5bc6-4d91-bb68-ce082c537730)
+
 
 
 
