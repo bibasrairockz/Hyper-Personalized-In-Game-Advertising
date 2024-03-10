@@ -11,8 +11,8 @@ Privacy and Partnership: Focuses on user privacy and collaborates closely with g
 ### Goal   
 To create a mutually beneficial ecosystem where ads are a natural, enjoyable part of the gaming experience, offering value to players, developers, and advertisers alike, while respecting user privacy and game integrity.  
   
-## Architecture  
+## Architecture:  
   
-## Demo Video  
+## Demo Video:  
 https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/aee3ad26-4c8d-4ed3-be0d-553c5fd39ac0
 
