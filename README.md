@@ -34,7 +34,9 @@ https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/1
 ![Screenshot 2024-03-10 134125](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/af495c5a-5bc6-4d91-bb68-ce082c537730)
 
 
+## Project snips  
 
+![Screenshot 2024-03-10 132607](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/3df62431-4fc4-4b43-b49c-1048ded8e222)
 
 
 
