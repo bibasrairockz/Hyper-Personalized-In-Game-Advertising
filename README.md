@@ -11,9 +11,7 @@ This project automates the process of integrating advertisement images into dete
 
 
 # Architecture 
-
-![[Pasted image 20240310120037.png]]
-
+![Pasted_image_20240310120119](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/a3013527-4627-40d2-a8ff-b9f73363c997)  
 
 # Acknowledgments
 [GitHub - betogaona7/Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper - Automatically Detect , Segment and Generate Anything with Image, Text, and Speech Inputs](https://github.com/betogaona7/Grounded-Segment-Anything?tab=readme-ov-file)
@@ -22,7 +20,7 @@ This project automates the process of integrating advertisement images into dete
 1. Deep Wilson ( deep.16wilson@gmail.com ) - Ideation, Computer Vision (Segmentation/ Contour detection/ Alpha blending)
 2. Bibas Rai - Backend/front-end integration 
 3. Deepak Singh - Backend Intergration/front-end integration 
-4. Kartik Gehlot - Model training/ integration
+4. Kartik Gehlot (kartikgehlot963@gmail.com) - Model training/ integration
   
 ## Demo Video:  
 https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/aee3ad26-4c8d-4ed3-be0d-553c5fd39ac0
