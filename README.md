@@ -18,8 +18,8 @@ This project automates the process of integrating advertisement images into dete
 
 # TEAM
 1. Deep Wilson ( deep.16wilson@gmail.com ) - Ideation, Computer Vision (Segmentation/ Contour detection/ Alpha blending)
-2. Bibas Rai (bibasrai6@gmail.com) - Stable Diffusion, Backend/front-end integration 
-3. Deepak Singh (deepaksingh26113@gmail.com) - Backend Intergration/front-end integration 
+2. Bibas Rai (bibasrai6@gmail.com) - Stable Diffusion (image generation), Backend/Frontend integration 
+3. Deepak Singh (deepaksingh26113@gmail.com) - Music generation, Backend Intergration/front-end integration 
 4. Kartik Gehlot (kartikgehlot963@gmail.com) - Model training/ integration
   
 ## Demo Video:  
