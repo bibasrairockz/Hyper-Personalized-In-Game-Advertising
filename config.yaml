@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    bsanu:
+      #email: jsmith@gmail.com
+      name: Babu Sabu
+      password: "00100" # To be replaced with hashed password
+    Svona:
+      #email: rbriggs@gmail.com
+      name: Shona Vona
+      password: "11011" # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
