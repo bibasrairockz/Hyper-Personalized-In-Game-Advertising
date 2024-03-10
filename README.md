@@ -23,10 +23,10 @@ This project automates the process of integrating advertisement images into dete
 4. Kartik Gehlot (kartikgehlot963@gmail.com) - Model training/ integration
   
 ## Demo Videos:
-### Input:  
-https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/2a1357f4-ab1f-4908-91a3-8bac6b434cde  
-  
-### Final Output:  
-https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/c31bc9ea-8b65-4510-ba1e-9d6c9808efa6
+
+
+https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/e0f79d82-ba7a-4d89-b30f-b6bd109f0d1f
+
+
 
 
