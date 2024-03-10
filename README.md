@@ -22,10 +22,20 @@ This project automates the process of integrating advertisement images into dete
 3. Deepak Singh (deepaksingh26113@gmail.com) - Music generation, Backend Intergration/front-end integration 
 4. Kartik Gehlot (kartikgehlot963@gmail.com) - Model training/ integration
   
-## Demo Videos:
+## Demo Videos  
 
 
-https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/e0f79d82-ba7a-4d89-b30f-b6bd109f0d1f
+https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/e0f79d82-ba7a-4d89-b30f-b6bd109f0d1f  
+
+
+## GenAI (Image, Music)   
+### Image:  
+![Figure_16](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/092e3a28-68fa-48cd-aa4d-15fd36a5b5cf)  
+  
+![Figure_15](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/85708e67-7a5f-4d30-bac7-fef2d36c375e)  
+  
+![Figure_17](https://github.com/bibasrairockz/Hyper-Personalized-In-Game-Advertising/assets/130794180/70a1c548-0301-442d-933e-78a8fd42abfa)
+
 
 
 
